@@ -10,10 +10,5 @@ class work_planner:
         self.functions()
     def run(self):
         pass
-
-
-
-    print(calenda(year, month),)
-    hello()
 if __name__ == "__main__":
     work_planner.run
